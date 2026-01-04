@@ -12,7 +12,7 @@ The AI roadmap diagram is based on the roadmap slide from the [AI Leadership Tra
 ## Overview
 
 This site has the following "implied" domain model: **Roadmap** (table) consists of **Phases** (columns) and **Actors/Stakeholders** (rows) with **Deliverables** in cells. 
-All elements can have tooltips and documentation and status tags.
+All elements can have tooltips, documentation and status tags.
 Visibility of elements can be toggled by the clicking on the status nodes in the legend.
 
 The diagram is not [mapped](https://docs.nasdanika.org/core/mapping/index.html) to a semantic model and, therefore:
