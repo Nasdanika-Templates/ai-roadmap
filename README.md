@@ -65,4 +65,7 @@ If you are using Jira you can implement status update as explained in this secti
     * ``Off Track`` - for every issue compute from target dates and issue status. The aggregated status is Off Track if there are no blocked issues and there is at least one issue off track
     * ``Blocked`` - if there is at least one blocked issue
 
+## Resources
+
+* [End-to-end AI Delivery Roadmap… as code… and beyond](https://medium.com/nasdanika/end-to-end-ai-delivery-roadmap-as-code-and-beyond-986a15de3079) Medium story
 
